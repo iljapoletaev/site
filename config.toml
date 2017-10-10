@@ -5,6 +5,8 @@ theme = "kuberlab"
 newContentEditor = "nano"
 pygmentsStyle = "native"
 
+publishDir = "docs"
+
 
 
 [params]
